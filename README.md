@@ -6,7 +6,7 @@ Be sure to "chmod +x install_touchid_sudo.sh uninstall_touchid_sudo.sh
 
 Install makes timestamped .bak files for everything they touch and keeps a manifest so you can fully revert.
 
-Open a new iTerm2 tab or run source ~/.zshrc.
+Open a new tab or run source ~/.zshrc after you run the script.
 
 
  
